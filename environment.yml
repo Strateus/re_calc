@@ -6,9 +6,10 @@ channels:
 
 dependencies:
   - python=2.7
-  - realestate
   - numpy
   - pandas
   - matplotlib
   - IPython
   - ipywidgets
+  - pip:
+    - realestate
