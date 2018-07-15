@@ -3,4 +3,9 @@ channels:
   - defaults
   - https://anaconda.org/loknar/
 dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - IPython
+  - ipywidgets
   - realestate
