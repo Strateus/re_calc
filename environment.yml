@@ -1,7 +1,7 @@
 channels:
   - conda-forge
+  - loknar
   - defaults
-  - https://anaconda.org/loknar/
 dependencies:
   - numpy
   - pandas
