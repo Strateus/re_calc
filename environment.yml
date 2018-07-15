@@ -1,0 +1,6 @@
+channels:
+  - conda-forge
+  - defaults
+  - https://anaconda.org/loknar/
+dependencies:
+  - realestate
