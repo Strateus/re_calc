@@ -1,10 +1,11 @@
 channels:
   - conda-forge
   - loknar
+  - defaults
 dependencies:
   - numpy
   - pandas
   - matplotlib
   - IPython
   - ipywidgets
-  - realestate
+  - realestate==0.11
