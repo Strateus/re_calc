@@ -11,4 +11,3 @@ dependencies:
   - matplotlib
   - IPython
   - ipywidgets
-  - realestate
