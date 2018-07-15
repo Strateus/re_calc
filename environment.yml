@@ -1,7 +1,7 @@
 name: calc
 channels:
-  - conda-forge
   - loknar
+  - conda-forge
   - defaults
 dependencies:
   - python=2.7
