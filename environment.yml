@@ -1,3 +1,4 @@
+name: calc
 channels:
   - conda-forge
   - loknar
